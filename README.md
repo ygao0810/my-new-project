@@ -27,7 +27,7 @@ SmartRoute is intended for shipping companies or sustainability officers plannin
 
 The system calculates all possible routes and returns the one with the least total CO₂ emissions, based on known distances and emissions per kilometer.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Container_ship_Kapitan_Kudryavtsev.jpg" width="300">
+![image of a cat](/MV_Ocean_Luck_2005-01-24.jpg)
 
 def calculate_emissions(route, distance_matrix, emission_rate):
     total = 0
